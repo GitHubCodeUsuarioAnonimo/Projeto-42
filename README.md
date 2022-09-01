@@ -1,2 +1,1 @@
-# Projeto-42
-Projeto 42 !!!
+# PRO-V2-C42-ModeloProjeto
